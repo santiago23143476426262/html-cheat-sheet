@@ -1,0 +1,21 @@
+<html>	Contenedor principal de todo el documento HTML.	<html lang="es">
+<head>	Contiene metadatos (información sobre el documento).	<head> ... </head>
+<body>	Contiene todo el contenido visible de la página.	<body> ... </body>
+<h1> a <h6>	Encabezados jerárquicos (1 más importante, 6 menos importante).	<h1>Título principal</h1>
+<p>	Define un párrafo.	<p>Texto del párrafo</p>
+<a>	Define un hipervínculo.	<a href="https://ejemplo.com">Enlace</a>
+<img>	Muestra una imagen (requiere el atributo src).	<img src="imagen.jpg" alt="Descripción">
+<ul>	Lista no ordenada (puntos).	<ul><li>Item 1</li></ul>
+<ol>	Lista ordenada (números).	<ol><li>Item 1</li></ol>
+<li>	Define un elemento de lista (usado dentro de <ul> o <ol>).	<li>Item</li>
+<table>	Define una tabla.	<table> ... </table>
+<tr>	Fila de una tabla.	<tr> ... </tr>
+<td>	Celda de una tabla.	<td>Contenido</td>
+<th>	Celda de encabezado de tabla.	<th>Encabezado</th>
+<div>	Contenedor genérico para agrupar contenido.	<div> ... </div>
+<span>	Contenedor en línea para aplicar estilos o agrupar texto.	<span>Texto</span>
+<form>	Define un formulario.	<form> ... </form>
+<input>	Campo de entrada en un formulario.	<input type="text" name="nombre">
+<button>	Botón clicable.	<button>Enviar</button>
+<br>	Salto de línea.	Texto <br> Salto
+<hr>	Línea horizontal divisoria.	<hr>
